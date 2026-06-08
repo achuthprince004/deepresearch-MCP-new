@@ -16,9 +16,10 @@ Link for endpoint generation: https://deepresearch-mcp.vercel.app/
 >
 > The project is actively maintained and continues to evolve with new research features, improved performance, and enhanced reliability.
 >
-> Since this instance is deployed on **Render Free tier**, the first connection or tool call after 15 minutes of inactivity may take **30–90 seconds** (cold start).  
+> Since this instance is deployed on **Render Free tier**, the first connection or tool call after 15 minutes of inactivity may take **30–90 seconds** (cold start).  The same applies for the first connection in claude web connectors too.
 >
 > Subsequent calls during an active session are much faster.  
+>
 > This delay is normal for free hosting and mainly affects Claude when starting a new research task after a pause.
 
 ## Features
